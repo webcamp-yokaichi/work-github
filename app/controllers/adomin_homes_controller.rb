@@ -1,2 +1,0 @@
-class AdominHomesController < ApplicationController
-end
