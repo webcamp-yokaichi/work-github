@@ -1,0 +1,2 @@
+class AdominHomesController < ApplicationController
+end
